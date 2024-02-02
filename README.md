@@ -38,4 +38,4 @@ Should you brave the veiled paths and seek communion with The Enigmatic Guide, y
 
                                                                                                           - SANOTW zi Rendalphone [Wolf Clan Leader]
                                                                                                           
-* It is prone to changes as the poetic language with english vocabulary and grammar is being ehanced.
+* It is prone to change as the poetic language's English vocabulary and grammar gets refined.
