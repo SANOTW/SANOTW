@@ -1,13 +1,51 @@
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+#####################
 
-- 👋 Hi, I’m @SANOTW
+# The Enigmatic Guide
 
-- 👀 I’m interested in coding and learning assembly language to create my own operating system and kernel and all the softwares the way I want cause I feel really limited and I believe that there is a way to allow more features to be there alongside good security system as of running right now.
+#####################
 
-- 🌱 I’m currently learning several languages with more focus towards python for the time being.
+Table of Contents
 
-- 💞️ I’m looking to collaborate on simple learning and experience gathering with coding
+- Introduction
+- Veiled Knowledge
+- Whispers of Contact
+- Cryptic Ethos
+- Echoes of Feedback
 
-- 📫 How to reach me via discord SANOTW/sanotw_zi_rendalphone/SANOTW#5462
+=-=-=-=-=-=-=-=-=-=-=
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+## Introduction
+
+Traveller from distant lands, welcome to my domain, where one would feel enveloped in a realm of eternal happiness and a profound sense of sanctuary awaiting all who enter.  
+Though my essence remains shrouded in secrecy, it is imbued by the universe, emanating an aura of gentle mystery and boundless kindness.  
+As you step into my realm, may the mysteries of my essence and the wonders of my domain captivate your imagination, inviting you to join me on a journey of discovery and shared exploration.
+
+=-=-=-=-=-=-=-=-=-=-=
+
+## Veiled Knowledge
+
+Acknowledgment within secretive circles for offering profound wisdom wrapped in mystery and kindness that touches the heart.
+
+=-=-=-=-=-=-=-=-=-=-=
+
+## Whispers of Connection
+
+Amidst the depths of the unknown, your whispers of connection are met with gentle kindness and mysterious grace.
+
+=-=-=-=-=-=-=-=-=-=-=
+
+## Mysterious Principles
+
+In the depths of shadow, we navigate with kindness and cryptic wisdom, honoring the journey of each seeker and the mysteries that unite us all.
+
+=-=-=-=-=-=-=-=-=-=-=
+
+## Resonating Responses
+
+Should you brave the veiled paths and seek communion with The Enigmatic Guide, your whispers of feedback shall reverberate in the cosmic echoes, shaping the journey ahead.
+
+#####################
+
+                                                                                                          - SANOTW zi Rendalphone [Wolf Clan Leader]
+                                                                                                          
+* It is prone to changes as the poetic language with english vocabulary and grammar is being ehanced.
