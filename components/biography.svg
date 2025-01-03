@@ -1,4 +1,5 @@
-<svg xmlns="http://www.w3.org/2000/svg" color-interpolation-filters="" width="1000" height="100%" viewBox="0 0 800 400">
+<svg xmlns="http://www.w3.org/2000/svg" color-interpolation-filters="" width="1000" height="100%"
+  viewBox="0 0 1000 400">
 
   <!-- Made by SANOTW -->
   <!-- Soon to be automated and design will be improved-->
@@ -222,6 +223,27 @@
   <g>
     <text x='520' y='390'>
       Soon to be improved and updated.
+    </text>
+  </g>
+
+  <!-- Right coolumn -->
+  <g>
+    <text class="title" x="500" y="200">
+      Latest Repo Updated:
+    </text>
+
+    <text class="answer" x="740" y="200">
+      exercise-index
+    </text>
+  </g>
+
+  <g>
+    <text class="title" x="500" y="235">
+      Latest Repo Update At:
+    </text>
+
+    <text class="answer" x="740" y="235">
+      2025-01-03T14:21:28Z
     </text>
   </g>
 
