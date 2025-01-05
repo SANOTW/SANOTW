@@ -152,7 +152,7 @@
     </style>
 
 
-    <text id="myText" class="label" x="400" y="60" dy="0.35em">
+    <text id="myText" class="label" x="500" y="60" dy="0.35em">
       <!-- Adjusted for vertical baseline alignment -->
       Biography
     </text>
@@ -220,12 +220,6 @@
     </text>
   </g>
 
-  <g>
-    <text x='520' y='390'>
-      Soon to be improved and updated.
-    </text>
-  </g>
-
   <!-- Right coolumn -->
   <g>
     <text class="title" x="500" y="200">
@@ -243,7 +237,13 @@
     </text>
 
     <text class="answer" x="740" y="235">
-      2025-01-04T16:00:13Z
+      2025-01-05T16:06:53Z
+    </text>
+  </g>
+
+  <g>
+    <text x='700' y='390'>
+      Soon to be improved and updated.
     </text>
   </g>
 
